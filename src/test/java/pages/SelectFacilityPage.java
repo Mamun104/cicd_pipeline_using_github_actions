@@ -45,11 +45,5 @@ public class SelectFacilityPage {
         txtValue.get(3).click();
         Thread.sleep(1000);
         btnEnter.click();
-
     }
-    /*public void searchPatient(){
-        nrcBtn.get(12).click();
-    }
-
-     */
 }

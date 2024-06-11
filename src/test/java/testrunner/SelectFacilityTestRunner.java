@@ -40,11 +40,4 @@ public class SelectFacilityTestRunner extends Setup {
         Thread.sleep(2000);
 
     }
-    /*@Test(priority = 3)
-    public void TestSearchPatient() throws InterruptedException {
-    Thread.sleep(2000);
-    selectFacilityPage.searchPatient();
-    }
-
-     */
 }
